@@ -74,7 +74,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Siddh\\Desktop\\Blinkit-UI\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Siddh\\.gradle\\caches\\transforms-3\\12d0e8d71b0600cec5ba2edcf29e905c\\transformed\\lifecycle-runtime-2.7.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "140",
+                        "startColumns": "4",
+                        "startOffsets": "6888",
+                        "endColumns": "42",
+                        "endOffsets": "6926"
+                    }
+                },
+                {
+                    "source": "D:\\flutter pratice\\Blinkit-ui\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -90,23 +107,6 @@
                         "endLines": "158,161",
                         "endColumns": "12,12",
                         "endOffsets": "8070,8239"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Siddh\\.gradle\\caches\\transforms-3\\12d0e8d71b0600cec5ba2edcf29e905c\\transformed\\lifecycle-runtime-2.7.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "42",
-                        "endOffsets": "93"
-                    },
-                    "to": {
-                        "startLines": "140",
-                        "startColumns": "4",
-                        "startOffsets": "6888",
-                        "endColumns": "42",
-                        "endOffsets": "6926"
                     }
                 },
                 {

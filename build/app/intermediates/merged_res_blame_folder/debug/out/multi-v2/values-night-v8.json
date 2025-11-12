@@ -4,7 +4,7 @@
             "outputFile": "com.example.blinkit_ui.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Siddh\\Desktop\\Blinkit-UI\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\flutter pratice\\Blinkit-ui\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
