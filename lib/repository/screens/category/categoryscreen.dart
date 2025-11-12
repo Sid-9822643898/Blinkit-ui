@@ -3,28 +3,28 @@ import 'package:flutter/material.dart';
 
 class CategoryScreen extends StatelessWidget {
 final TextEditingController searchController = TextEditingController();
-  var grocerykitchen = [
+  static const  grocerykitchen = [
     {"img": "image 41.png", "text": "Vegetables & \nFruits"},
     {"img": "image 42.png", "text": "Atta, Dal & \nRice"},
     {"img": "image 43.png", "text": "Oil, Ghee & \nMasala"},
     {"img": "image 44 (1).png", "text": "Dairy, Bread & \nMilk"},
     {"img": "image 45 (1).png", "text": "Biscuits & \nBakery"}
   ];
-  var secondgrocery = [
+  static const secondgrocery = [
     {"img": "image 21.png", "text": "Dry Fruits &\n Cereals"},
     {"img": "image 22.png", "text": "Kitchen &\n Appliances"},
     {"img": "image 23.png", "text": "Tea & \nCoffees"},
     {"img": "image 24.png", "text": "Ice Creams & \nmuch more"},
     {"img": "image 25.png", "text": "Noodles & \nPacket Food"}
   ];
-  var snacksanddrinks = [
+  static const snacksanddrinks = [
     {"img": "image 31.png", "text": "Chips &\n Namkeens"},
     {"img": "image 32.png", "text": "Sweets & \nChocalates"},
     {"img": "image 33.png", "text": "Drinks & \nJuices"},
     {"img": "image 34.png", "text": "Sauces &\n Spreads"},
     {"img": "image 35.png", "text": "Beauty &\n Cosmetics"}
   ];
-  var hosuehold = [
+  static const hosuehold = [
     {"img": "image 36.png"},
     {"img": "image 37.png"},
     {"img": "image 38.png"},

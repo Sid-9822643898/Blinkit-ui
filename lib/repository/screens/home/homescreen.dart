@@ -3,18 +3,18 @@ import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {
   final TextEditingController searchController = TextEditingController();
-  var data = [
+  static const data = [
     {"img": "image 50.png", "text": "Lights, Diyas \n & Candles"},
     {"img": "image 51.png", "text": "Diwali \n Gifts"},
     {"img": "image 52.png", "text": "Appliances  \n & Gadgets"},
     {"img": "image 53.png", "text": "Home \n & Living"}
   ];
-  var categroy = [
+  static const categroy = [
     {"img": "image 54.png", "text": "Golden Glass\n Wooden Lid Candle (Oudh)"},
     {"img": "image 57.png", "text": "Royal Gulab Jamun\n By Bikano"},
     {"img": "image 63.png", "text": "Golden Glass\n Wooden Lid Candle (Oudh)"},
   ];
-  var grocerykitchen = [
+  static const grocerykitchen = [
     {"img": "image 41.png", "text": "Vegetables & \nFruits"},
     {"img": "image 42.png", "text": "Atta, Dal & \nRice"},
     {"img": "image 43.png", "text": "Oil, Ghee & \nMasala"},
