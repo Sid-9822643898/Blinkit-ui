@@ -114,7 +114,7 @@ lib/
 
 | Splash Screen                                          | Login Screen                                          |
 | ------------------------------------------------------ | ----------------------------------------------------- |
-| <img src="assets/images/splash screen.png" width="300"/> | <img src="assets/images/login screen.png" width="300"/> |
+| <img src="assets/images/splash screen.png" width="300"/> | <img src="assets/images/login  screen.png" width="300"/> |
 
 ### Home & Categories
 
