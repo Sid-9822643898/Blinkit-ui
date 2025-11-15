@@ -25,7 +25,7 @@
 ## 🎥 Live App Preview
 
 <p align="center">
-  <img src="assets/preview/premium_mockup_B.gif" height="900" width="500" alt="Blinkit UI GIF Preview"/>
+  <img src="assets/preview/premium_mockup_B.gif" height="1200" width="500" alt="Blinkit UI GIF Preview"/>
 </p>
 
 *A smooth walkthrough covering Splash → Login → Home → Categories → Cart → Print Screens.*
