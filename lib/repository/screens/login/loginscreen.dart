@@ -44,7 +44,7 @@ class LoginScreen extends StatelessWidget {
                     height: 20,
                   ),
                   UiHelper.customText(
-                      text: "Sujal",
+                      text: "Siddhesh",
                       color: const Color(0XFF000000),
                       fontweight: FontWeight.w500,
                       fontsize: 14),
