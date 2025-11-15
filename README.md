@@ -1,7 +1,7 @@
 # 🚀 Blinkit Clone — Flutter UI Only
 
 <p align="center">
-  <img src="assets/banner/blinkit_banner.png" width="100%" alt="Blinkit UI Banner"/>
+  <img src="assets/images/blinkit_banner.png" width="100%" alt="Blinkit UI Banner"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## 🎥 Live App Preview
 
 <p align="center">
-  <img src="assets/preview/blinkit_preview.gif" width="300" alt="Blinkit UI GIF Preview"/>
+  <img src="assets/blinkit_preview.gif" width="300" alt="Blinkit UI GIF Preview"/>
 </p>
 
 *A smooth walkthrough covering Splash → Login → Home → Categories → Cart → Print Screens.*
@@ -114,19 +114,19 @@ lib/
 
 | Splash Screen                                          | Login Screen                                          |
 | ------------------------------------------------------ | ----------------------------------------------------- |
-| <img src="assets/splash screen.png" width="300"/> | <img src="assets/login.png" width="300"/> |
+| <img src="assets/images/splash screen.png" width="300"/> | <img src="assets/images/login.png" width="300"/> |
 
 ### Home & Categories
 
 | Home Screen                                          | Categories Screen                                          |
 | ---------------------------------------------------- | ---------------------------------------------------------- |
-| <img src="assets/home screen.png" width="300"/> | <img src="assets/categories screen.png" width="300"/> |
+| <img src="assets/images/home screen.png" width="300"/> | <img src="assets/images/categories screen.png" width="300"/> |
 
 ### Cart & Print
 
 | Cart Screen                                          | Print Screen                                          |
 | ---------------------------------------------------- | ----------------------------------------------------- |
-| <img src="assets/cart screen.png" width="300"/> | <img src="assets/print screen.png" width="300"/> |
+| <img src="assets/images/cart screen.png" width="300"/> | <img src="assets/images/print screen.png" width="300"/> |
 
 ---
 
