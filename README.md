@@ -58,7 +58,7 @@ lib/
 │
 └── main.dart # Entry point
 
----
+--- ```bash
 
 ## 🖼️ Screenshots
 
